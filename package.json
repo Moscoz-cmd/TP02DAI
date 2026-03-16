@@ -1,7 +1,7 @@
 {
-  "name": "tp02",
+  "name": "dai",
   "version": "1.0.0",
-  "description": "",
+  "description": "\"# TP02DAI\"",
   "homepage": "https://github.com/Juannmlopez/TP02#readme",
   "bugs": {
     "url": "https://github.com/Juannmlopez/TP02/issues"
@@ -20,5 +20,6 @@
   },
   "dependencies": {
     "cowsay": "^1.6.0"
-  }
+  },
+  "devDependencies": {}
 }
