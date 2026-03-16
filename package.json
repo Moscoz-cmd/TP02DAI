@@ -1,0 +1,24 @@
+{
+  "name": "tp02",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Juannmlopez/TP02#readme",
+  "bugs": {
+    "url": "https://github.com/Juannmlopez/TP02/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Juannmlopez/TP02.git"
+  },
+  "license": "ISC",
+  "author": "Juan Lopez e Ivan Moscovich",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cowsay": "^1.6.0"
+  }
+}
