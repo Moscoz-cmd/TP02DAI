@@ -18,7 +18,6 @@ export function parsearUrl(urlString) {
 
     return { host, pathname, parametros };
   } catch (err) {
-    console.error('Trabajo Práctico - DAI TP01 - Node V1.0 2022-05-09 Profesor: Pablo Ulman (Polshu)');
     return null;
   }
 }
